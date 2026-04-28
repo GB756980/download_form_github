@@ -82,8 +82,12 @@ jobs:
       - name: Create and rename zip file with version
         run: |
           New-Item -ItemType Directory -Force -Path output # 如果输出目录不存在则创建
-          Compress-Archive -Path .\download_form_github.exe, .\config.json .\README.md -DestinationPath .\output\download_form_github_${{ env.new_version }}.zip # 将 exe 和 config.json 文件压缩成 ZIP 文件，文件名包含新版本号
-
+          $files = @(
+            ".\download_form_github.exe",
+            ".\config.json",
+            ".\README.md"
+            )
+          Compress-Archive -Path $files -DestinationPath ".\output\download_form_github_$version.zip"
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1 # 使用 create-release 操作创建一个新的 GitHub 发布
