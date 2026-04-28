@@ -8,7 +8,7 @@
       "description": "全新的可启动USB解决方案。",
       "github_url": "https://github.com/ventoy/Ventoy",
       "save_path": "F:\\ventoy",
-      "version": "v1.1.00",
+      "version": "v1.1.12",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -22,7 +22,7 @@
       "description": "Notepad++ 是一个免费的源代码编辑器和记事本替代品，支持多种编程语言和自然语言。",
       "github_url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
       "save_path": "D:\\Program\\Editor&IDE\\Notepad++",
-      "version": "v8.7.6",
+      "version": "v8.9.3",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -36,7 +36,7 @@
       "description": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
       "github_url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
       "save_path": "D:\\工具\\bilibili-tool-pro",
-      "version": "2.1.3",
+      "version": "3.8.1",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -50,7 +50,7 @@
       "description": "适用于 Windows 的 GUI 客户端，支持 Xray Core 和 v2fly Core 等。",
       "github_url": "https://github.com/2dust/v2rayN",
       "save_path": "D:\\加速\\V2rayN",
-      "version": "7.7.0",
+      "version": "7.20.4",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -64,7 +64,7 @@
       "description": "基于 ClashMeta 的多平台代理客户端，简单易用，开源无广告。",
       "github_url": "https://github.com/chen08209/FlClash",
       "save_path": "D:\\加速\\FlClash",
-      "version": "v0.8.72",
+      "version": "v0.8.92",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -77,8 +77,8 @@
       "repository": "clash-verge-rev",
       "description": "Clash Verge的延续-基于Tauri（Windows，MacOS，Linux）的Clash Meta GUI。",
       "github_url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "save_path": "D:\\加速\\Clash Verge Rev",
-      "version": "v2.0.3",
+      "save_path": "D:\\加速\\Clash Verge",
+      "version": "v2.4.7",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -102,11 +102,11 @@
     {
       "enabled": true,
       "owner": "mihomo-party-org",
-      "repository": "mihomo-party",
+      "repository": "clash-party",
       "description": "Another Mihomo GUI.",
-      "github_url": "https://github.com/mihomo-party-org/mihomo-party",
-      "save_path": "D:\\加速\\Mihomo Party",
-      "version": "v1.6.0",
+      "github_url": "https://github.com/mihomo-party-org/clash-party",
+      "save_path": "D:\\加速\\Clash Party",
+      "version": "v1.9.4",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -120,7 +120,7 @@
       "description": "A GUI program developed by vue3 + wails.",
       "github_url": "https://github.com/GUI-for-Cores/GUI.for.Clash",
       "save_path": "D:\\加速\\GUI.for.Clash",
-      "version": "v1.9.0",
+      "version": "v1.23.2",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -134,7 +134,7 @@
       "description": "GUI for SingBox",
       "github_url": "https://github.com/GUI-for-Cores/GUI.for.SingBox",
       "save_path": "D:\\加速\\GUI.for.SingBox",
-      "version": "v1.9.1",
+      "version": "v1.23.2",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -148,7 +148,7 @@
       "description": "多平台自动代理客户端，支持Sing-Box、X-Ray、TUIC、Hysteria、Reality、Trojan、SSH等它是开源的，安全的，无广告的。",
       "github_url": "https://github.com/hiddify/hiddify-next",
       "save_path": "D:\\加速\\Hiddify",
-      "version": "v2.0.5",
+      "version": "v4.1.1",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -176,7 +176,7 @@
       "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
       "github_url": "https://github.com/BeyondDimension/SteamTools",
       "save_path": "D:\\Game\\Steam\\Steam++",
-      "version": "3.0.0-rc.14",
+      "version": "3.1.0",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -185,12 +185,12 @@
     },
     {
       "enabled": true,
-      "owner": "SnxiaLianXin",
+      "owner": "Seraph1ne",
       "repository": "LOLAutomationTools",
       "description": "LOL（英雄联盟）自动化工具",
-      "github_url": "https://github.com/SnxiaLianXin/LOLAutomationTools",
+      "github_url": "https://github.com/Seraph1ne/LOLAutomationTools",
       "save_path": "D:\\Game\\GameTools\\LOL\\LOLAutomationTools",
-      "version": "v2.6.3.0",
+      "version": "v2.9.758.4427",
       "stable_version": true,
       "extract_flag": true,
       "files": [
@@ -199,44 +199,16 @@
     },
     {
       "enabled": true,
-      "owner": "Hanxven",
+      "owner": "LeagueAkari",
       "repository": "LeagueAkari",
-      "description": "✨兴趣使然、功能全面的英雄联盟工具集。",
+      "description": "LeagueClient 的一体化工具包。积聚力量🚀。",
       "github_url": "https://github.com/Hanxven/LeagueAkari",
       "save_path": "D:\\Game\\GameTools\\LOL\\LeagueAkari",
-      "version": "v1.3.4",
+      "version": "v1.4.3",
       "stable_version": true,
       "extract_flag": true,
       "files": [
         "League.Akari-*-win.7z"
-      ]
-    },
-    {
-      "enabled": true,
-      "owner": "PenguLoader",
-      "repository": "PenguLoader",
-      "description": "终极 JavaScript 插件加载器，构建您无与伦比的 LoL 客户端。",
-      "github_url": "https://github.com/PenguLoader/PenguLoader",
-      "save_path": "D:\\Game\\GameTools\\LOL\\Pengu Loader",
-      "version": "v1.1.6",
-      "stable_version": true,
-      "extract_flag": true,
-      "files": [
-        "pengu-loader-v*.zip"
-      ]
-    },
-    {
-      "enabled": true,
-      "owner": "cangzhang",
-      "repository": "champ-r",
-      "description": "又一个英雄联盟帮手",
-      "github_url": "https://github.com/cangzhang/champ-r",
-      "save_path": "D:\\Game\\GameTools\\LOL\\ChampR\\V2",
-      "version": "v2.0.2-b7",
-      "stable_version": true,
-      "extract_flag": true,
-      "files": [
-        "champr-v*.zip"
       ]
     },
     {
